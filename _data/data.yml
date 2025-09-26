@@ -60,26 +60,17 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Mechanical Engineer with hands-on experience and a focus on design. At Entegris, I 
+    supported design projects and at Joby Aviation, I contributed to process improvements. I 
+    was a Peace Corps volunteer in Tanzania, and solved problems collaboratively across 
+    cultures. I am passionate about making a positive impact with my engineering skills. 
 education:
   title: Education
   info:
   - degree: B.S in Aerospace Engineering, Aeronautics Concentration, Minor in Physics
     university: Cal Poly SLO
     time: 2017 - 2022
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+    details:
 
 experiences:
   title: Experiences
