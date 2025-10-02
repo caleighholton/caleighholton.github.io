@@ -49,21 +49,25 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Traveling
       link:
-    - item: Snowboarding
+    - item: Running
       link:
-    - item: Cooking
+    - item: Hiking
+      link:
+    - item: Painting
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Mechanical Engineer with hands-on experience and a focus on design. At Entegris, I 
-    supported design projects and at Joby Aviation, I contributed to process improvements. I 
-    was a Peace Corps volunteer in Tanzania, and solved problems collaboratively across 
-    cultures. I am passionate about making a positive impact with my engineering skills. 
+    Mechanical Engineer with hands-on experience and a focus on design. 
+    I supported design projects and contributed to precision mechanical 
+    manufacturing process improvements. I have experience with computer programming, 
+    testing and solved problems collaboratively across cultures. 
+    I became fluent in Swahili, and I am conversational in Mandarin. 
+    I am very passionate about making a positive impact with my engineering skills.
 education:
   title: Education
   info:
